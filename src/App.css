@@ -1,16 +1,15 @@
 .logo {
-    border: 2px solid red;
+    border: 2px solid rgb(29, 24, 71);
 }
 
 .buttonsDiv {
-    border: 2px solid red;
+    border: 2px solid rgb(14, 153, 100);
     display: flex;
     justify-content: space-evenly;
 }
 
 .hidden {
     visibility: hidden;
-    color: red;
 }
 
 .visible {
