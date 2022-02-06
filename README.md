@@ -3,5 +3,6 @@
 
 - React
 - Testing-library
+- Pagination
 
  ## List of Characters & Locations
