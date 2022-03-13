@@ -1,6 +1,7 @@
 
-# Rick and Morty characters
+# Rick and Morty
 
+- API
 - React
 - Testing-library
 - Pagination
