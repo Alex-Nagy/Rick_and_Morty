@@ -1,7 +1,7 @@
 
 # Rick and Morty
 
-- API
+- REST API
 - React
 - Testing-library
 - Pagination
