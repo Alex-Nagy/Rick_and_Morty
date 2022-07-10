@@ -9,7 +9,8 @@
 </ul><ul>
 <li>React</li>
 </ul><h2>Demo</h2>
-<p><img src="demo/rickmorty.gif" alt=""></p><h2>Setup</h2>
+<p><img src="demo/rickmorty.gif" alt=""></p>
+<h2>🛠Setup</h2>
 <p>Required:</p>
 <ul>
 <li>Node.js</li>
