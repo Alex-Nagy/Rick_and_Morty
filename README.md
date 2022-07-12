@@ -1,5 +1,6 @@
 <h1>Rick and Morty database</h1>
 <p>A frontend web application to show all characters and locations of the TV show, using the Rick and Morty API.</p>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
