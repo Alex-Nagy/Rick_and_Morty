@@ -23,8 +23,8 @@
 
 ###### _In terminal_
   
-  npm install
-  npm start
+    npm install
+    npm start
 
 <h2>Contact</h2>
 <p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/nagyal3x/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a></p>
