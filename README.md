@@ -15,9 +15,11 @@
 <p><img src="demo/rickmorty.gif" alt=""></p>
 <h2>🛠Setup</h2>
 <p>Required:</p>
-<ul>
-<li>Node.js</li>
-</ul><h5>Steps</h5><ul>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+</div>
+<h5>Steps</h5><ul>
 <code>npm install</code>
 </ul><ul>
 <code>npm start</code>
