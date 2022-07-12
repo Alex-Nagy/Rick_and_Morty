@@ -1,13 +1,15 @@
 <h1>Rick and Morty database</h1>
-<p>A frontend web application to show all characters and locations of the TV show, using the Rick and Morty API.</p><h2>Technologies Used</h2>
-<ul>
-<li>HTML</li>
-</ul><ul>
-<li>CSS</li>
-</ul><ul>
-<li>JavaScript</li>
-</ul><ul>
-<li>React</li>
+<p>A frontend web application to show all characters and locations of the TV show, using the Rick and Morty API.</p>
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 </ul><h2>Demo</h2>
 <p><img src="demo/rickmorty.gif" alt=""></p>
 <h2>🛠Setup</h2>
