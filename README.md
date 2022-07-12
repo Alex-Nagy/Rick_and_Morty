@@ -20,7 +20,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
 </div>
 <h5>Steps</h5><ul>
+  
 ###### _In terminal_
+  
 <code>npm install</code>
 </ul><ul>
 <code>npm start</code>
